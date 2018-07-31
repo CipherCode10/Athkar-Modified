@@ -1,0 +1,58 @@
+@font-face
+{
+font-family:DroidNaskh;
+src: url(../static/Fonts/DroidNaskh-Bold.ttf);
+}
+
+@font-face
+{
+font-family:Arefr;
+src: url(../static/Fonts/aref-regular.ttf);
+}
+
+
+.body
+{
+    background-color:#F0F8FF;
+    background-attachment:fixed;
+    background-size:cover;
+}
+
+h1
+{
+    font-family:Arefr;
+    text-align:center; 
+    font-size:35px;
+    font-weight:bold;
+    color:#2F4F4F;
+    padding:10px;
+}
+
+p
+{
+    font-family:DroidNaskh , serif , arial;
+    border-radius:20px;
+    background-color:#DCF4FC;
+    text-align:center;
+    font-weight:bold;
+    font-size:20px;
+    padding:10px;
+}
+
+hr
+{
+    width:500px;
+    color:#00FFFF;
+}
+
+#a2 , #a3
+
+{
+    border-radius:4px;
+    padding:5px;
+    background-color:#114851;
+    color:white;
+    font-size:20px;
+    text-decoration: none;
+}
+
